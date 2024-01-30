@@ -6,8 +6,8 @@ import { LoginUser } from '../slices/authSlice';
 
 const Login = () => {
   const [loginData, setLoginData] = useState({
-    email: '',
-    password: '',
+    email: 'hayderaly@gmail.com',
+    password: '12345678',
   });
 
   const [errors, setErrors] = useState({

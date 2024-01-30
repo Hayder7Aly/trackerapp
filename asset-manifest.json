@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/trackerapp/static/css/main.9f32a165.css",
-    "main.js": "/trackerapp/static/js/main.117ce7a3.js",
+    "main.js": "/trackerapp/static/js/main.ee8934f9.js",
     "index.html": "/trackerapp/index.html",
     "main.9f32a165.css.map": "/trackerapp/static/css/main.9f32a165.css.map",
-    "main.117ce7a3.js.map": "/trackerapp/static/js/main.117ce7a3.js.map"
+    "main.ee8934f9.js.map": "/trackerapp/static/js/main.ee8934f9.js.map"
   },
   "entrypoints": [
     "static/css/main.9f32a165.css",
-    "static/js/main.117ce7a3.js"
+    "static/js/main.ee8934f9.js"
   ]
 }
